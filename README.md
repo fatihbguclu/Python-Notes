@@ -1,2 +1,2 @@
 # Python-Notes
-My Python Tutorial Notes İnclude matpy,matplotlib,pandas
+My Python Tutorial Notes Include matpy,matplotlib,pandas
